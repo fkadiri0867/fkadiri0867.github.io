@@ -1,0 +1,34 @@
+{"input": "How do I check my policy details?", "output": "You can check your policy details by logging into your account on our website or mobile app. Once logged in, navigate to the 'My Policies' section to view the specifics of your coverage."}
+ 
+{"input": "What should I do after a car accident?", "output": "After ensuring everyone's safety, take photos of the scene, exchange information with the other driver, and file a police report if necessary. Then, log into your account or call our claims department to start the claims process."}
+ 
+{"input": "How can I update my address?", "output": "To update your address, please log into your account on our website, go to the 'Account Settings' section, and update your contact information. Alternatively, you can call our customer service team for assistance."}
+ 
+{"input": "What are the benefits of adding roadside assistance to my policy?", "output": "Adding roadside assistance to your policy gives you access to services like towing, battery jump-starts, flat tire changes, and lockout assistance, providing peace of mind when you're on the road."}
+ 
+{"input": "Can I cancel my policy online?", "output": "To cancel your policy, please contact our customer service team directly. They will guide you through the cancellation process and explain any potential fees or refunds."}
+ 
+{"input": "How do I know if I need more coverage?", "output": "It's important to assess your personal situation, such as changes in your financial status or the value of your assets. Our insurance agents can provide a personalized recommendation based on your needs."}
+ 
+{"input": "Is rental car coverage included in my policy?", "output": "Rental car coverage is an optional add-on. You can check if it's included in your policy by reviewing your policy documents or logging into your account. If not included, you can easily add it to your coverage."}
+ 
+{"input": "What is the difference between comprehensive and collision coverage?", "output": "Comprehensive coverage helps pay for damages not related to collisions, like theft, fire, or weather damage. Collision coverage helps pay for damages to your car from an accident with another vehicle or object."}
+ 
+{"input": "How can I lower my insurance premium?", "output": "You can lower your insurance premium by maintaining a clean driving record, bundling multiple policies, increasing your deductible, or installing safety features in your vehicle. Contact us for more details."}
+ 
+{"input": "What do I need to file a homeowners insurance claim?", "output": "When filing a homeowners insurance claim, you will need your policy number, a detailed description of the damage or loss, and any photos or documentation. Our claims department will guide you through the process."}
+ 
+{"input": "How do I add a vehicle to my policy?", "output": "To add a vehicle to your policy, log into your account and go to the 'Policy Management' section. Select 'Add Vehicle' and provide the necessary details. Review any changes to your premium before confirming."}
+ 
+{"input": "What is uninsured motorist coverage?", "output": "Uninsured motorist coverage helps protect you if you're in an accident with a driver who doesn’t have insurance. It covers medical expenses and damages to your vehicle in such situations."}
+ 
+{"input": "Can I pay my premium in installments?", "output": "Yes, we offer flexible payment options, including monthly, quarterly, or annual installments. You can set up your payment preferences by logging into your account or by contacting customer service."}
+ 
+{"input": "How do I find out if my policy covers flood damage?", "output": "Standard homeowners insurance does not typically cover flood damage. However, if you have purchased a separate flood insurance policy, you can check your coverage details by logging into your account or reviewing your policy documents."}
+{"input": "What should I do if I lost my insurance card?", "output": "If you've lost your insurance card, you can easily download a new one by logging into your account on our website or mobile app. Go to the 'My Policies' section and select 'Download Insurance Card'."}
+ 
+{"input": "How do I update the drivers listed on my auto insurance policy?", "output": "To update the drivers on your policy, log into your account, navigate to the 'Policy Management' section, and select 'Edit Drivers'. You can add or remove drivers as needed."}
+{"input": "What does personal liability coverage include?", "output": "Personal liability coverage protects you against legal claims for bodily injury or property damage that you or your family members cause to others. It also covers legal defense costs."}
+{"input": "Do you offer any discounts for safe drivers?", "output": "Yes, we offer discounts for safe drivers with a clean driving record. You may also qualify for discounts if you take defensive driving courses or use a telematics device to monitor your driving habits."}
+{"input": "How can I renew my policy?", "output": "You will receive a notification when your policy is up for renewal. To renew, simply log into your account, review the renewal details, and confirm your payment method. Your new policy will take effect immediately."}
+{"input": "What do I do if I missed a payment?", "output": "If you've missed a payment, you can make a one-time payment by logging into your account or contacting our billing department. It's important to address missed payments promptly to avoid coverage lapses."}
